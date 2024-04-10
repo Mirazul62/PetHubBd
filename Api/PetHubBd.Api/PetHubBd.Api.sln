@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetHubBd.Api", "PetHubBd.Api\PetHubBd.Api.csproj", "{1C73D3B5-E240-4491-8F64-0377E89D410E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C73D3B5-E240-4491-8F64-0377E89D410E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C73D3B5-E240-4491-8F64-0377E89D410E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C73D3B5-E240-4491-8F64-0377E89D410E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C73D3B5-E240-4491-8F64-0377E89D410E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2BC7C38-CD7A-484C-93EE-4DD308526363}
+	EndGlobalSection
+EndGlobal
